@@ -1,0 +1,10 @@
+pandas>=1.5.0
+numpy>=1.21.0
+rdkit>=2023.3.1
+scikit-learn>=1.2.0
+matplotlib>=3.6.0
+xgboost>=2.0.0
+mol2vec @ git+https://github.com/samoturk/mol2vec.git
+gensim>=4.0.0
+jupyter>=1.0.0
+openpyxl>=3.0.0
